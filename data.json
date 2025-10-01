@@ -1,0 +1,29 @@
+{
+    "exchange_rate": 12.6,
+    "users": [
+        {
+            "user_id": 716321077,
+            "username": "Enzziwe",
+            "first_seen": "2025-10-01 16:05:04.101621"
+        },
+        {
+            "user_id": 6982954872,
+            "username": "Enzziwe_smurf",
+            "first_seen": "2025-10-01 16:27:54.265337"
+        },
+        {
+            "user_id": 888488060,
+            "username": "MidSaleShop",
+            "first_seen": "2025-10-01 17:58:44.645230"
+        },
+        {
+            "user_id": 6583861433,
+            "username": "S1k4_eb",
+            "first_seen": "2025-10-01 18:00:46.699759"
+        }
+    ],
+    "statistics": {
+        "total_calculations": 15,
+        "total_users": 4
+    }
+}
